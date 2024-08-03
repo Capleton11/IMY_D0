@@ -1,7 +1,7 @@
-Project Overview
+Project Overview:
 The Playlist Sharing Website allows users to create and share playlists. Users can register, log in, and manage their playlists, add songs, and connect with other users. The website uses Spotify links for songs and provides an intuitive interface for playlist management.
 
-Features
+Features:
 User registration and login
 Create, edit, and delete playlists
 Add, edit, and delete songs
@@ -16,7 +16,7 @@ Database: [Your Database Choice, e.g., MongoDB]
 Version Control: Git, GitHub
 APIs: Spotify API
 
-Usage
+Usage:
 Register an account: Fill out the registration form on the splash page.
 Log in: Use your registered credentials to log in.
 Create a playlist: Navigate to your profile and create a new playlist.
