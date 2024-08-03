@@ -17,8 +17,13 @@ Version Control: Git, GitHub
 APIs: Spotify API
 
 Usage:
-Register an account: Fill out the registration form on the splash page.
-Log in: Use your registered credentials to log in.
-Create a playlist: Navigate to your profile and create a new playlist.
-Add songs: Use the song form to add songs to your playlists.
+
+Register an account: 
+Fill out the registration form on the splash page.
+Log in:
+ Use your registered credentials to log in.
+Create a playlist:
+ Navigate to your profile and create a new playlist.
+Add songs:
+ Use the song form to add songs to your playlists.
 Search and interact: Use the search feature to find users and playlists. Follow friends and comment on playlists.
