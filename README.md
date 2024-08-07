@@ -1,5 +1,5 @@
 Project Overview:
-The Playlist Sharing Website allows users to create and share playlists. Users can register, log in, and manage their playlists, add songs, and connect with other users. The website uses Spotify links for songs and provides an intuitive interface for playlist management.
+The Playlist Sharing Website allows users to create and share playlists. Users can register, log in, and manage their  playlists, add songs, and connect with other users. The website uses Spotify links for songs and provides an intuitive interface for playlist management.
 
 Features:
 User registration and login
