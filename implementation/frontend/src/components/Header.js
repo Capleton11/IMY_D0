@@ -20,9 +20,9 @@ class Header extends React.Component {
       }}>
         <img src="/assets/images/logo.png" alt="Logo" style={{ height: '50px' }} />
         <div style={{marginRight:"20%"}}>
-          <img src="/assets/images/logo.png" alt="Notifications" style={{ height: '25px', marginRight: '20px' }} />
+          <img src="/assets/images/notification-13-svgrepo-com.svg" alt="Notifications" style={{ height: '25px', marginRight: '20px' }} />
           <Link to="/logout">
-            <img src="/assets/images/logo.png" alt="Logout" style={{ height: '25px' }} />
+            <img src="/assets/images/logout-svgrepo-com.svg" alt="Logout" style={{ height: '25px' }} />
             <span>Logout</span>
           </Link>
         </div>

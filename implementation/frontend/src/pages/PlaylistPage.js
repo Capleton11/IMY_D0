@@ -4,7 +4,9 @@ import AddComment from '../components/AddComment';
 import CommentList from '../components/CommentList';
 import Header from '../components/Header';
 import Sidebar from '../components/HomePageSideBar';
+import { user } from '../data';
 
+//u22554875 Capleton Chapfika
 class PlaylistPage extends React.Component {
   constructor(props) {
     super(props);
@@ -19,7 +21,7 @@ class PlaylistPage extends React.Component {
   addComment = (commentText) => {
     const newComment = {
       id: this.state.comments.length + 1,
-      user: 'Anonymous', // You can update this to a real user if applicable
+      user: 'Anonymous', 
       text: commentText,
     };
 
@@ -33,7 +35,7 @@ class PlaylistPage extends React.Component {
       id: 1,
       title: 'My Playlist',
       description: 'This is a playlist description.',
-      imageUrl: '/assets/images/jj.png',
+      imageUrl: '/assets/images/juice cover.jpg',
       songs: [
         { id: 1, title: 'Song 1', artist: 'Artist 1', imageUrl: '/assets/images/jj.png' },
         { id: 2, title: 'Song 2', artist: 'Artist 2', imageUrl: '/assets/images/jj.png' },
@@ -52,7 +54,7 @@ class PlaylistPage extends React.Component {
         backgroundPosition: 'center',
         minHeight: '150vh',
       }}>
-        <Sidebar />
+        <Sidebar  user={user} />
         <div style={{ flex: 1 }}>
           <Header />
           <h1 style={{ textAlign: 'center', color: 'white' }}>Playlist Page</h1>

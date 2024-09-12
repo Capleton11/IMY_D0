@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 class ProfileSidebar extends React.Component {
   render() {
-    const { user } = this.props; // Assuming user is passed as a prop
+    const { user } = this.props; 
 
     return (
       <aside style={{
@@ -31,31 +31,31 @@ class ProfileSidebar extends React.Component {
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li style={{ marginBottom: '15px' }}>
               <Link to="/home" style={{ textDecoration: 'none', color: '#333', display: 'flex', alignItems: 'center' }}>
-                <img src="/assets/images/logo.png" alt="Home" style={{ width: '20px', marginRight: '10px' }} />
+                <img src="/assets/images/home-1-svgrepo-com.svg" alt="Home" style={{ width: '20px', marginRight: '10px' }} />
                 Home
               </Link>
             </li>
             <li style={{ marginBottom: '15px' }}>
               <Link to="/friends" style={{ textDecoration: 'none', color: '#333', display: 'flex', alignItems: 'center' }}>
-                <img src="/assets/images/logo.png" alt="Friends" style={{ width: '20px', marginRight: '10px' }} />
+                <img src="/assets/images/circled-group-svgrepo-com.svg" alt="Friends" style={{ width: '20px', marginRight: '10px' }} />
                 Friends
               </Link>
             </li>
             <li style={{ marginBottom: '15px' }}>
               <Link to="/library" style={{ textDecoration: 'none', color: '#333', display: 'flex', alignItems: 'center' }}>
-                <img src="/assets/images/logo.png" alt="Library" style={{ width: '20px', marginRight: '10px' }} />
+                <img src="/assets/images/library-svgrepo-com.svg" alt="Library" style={{ width: '20px', marginRight: '10px' }} />
                 Your Library
               </Link>
             </li>
             <li style={{ marginBottom: '15px' }}>
               <Link to="/playlist" style={{ textDecoration: 'none', color: '#333', display: 'flex', alignItems: 'center' }}>
-                <img src="/assets/images/logo.png" alt="Playlists" style={{ width: '20px', marginRight: '10px' }} />
+                <img src="/assets/images/playlist-svgrepo-com.svg" alt="Playlists" style={{ width: '20px', marginRight: '10px' }} />
                 Playlists
               </Link>
             </li>
             <li>
               <Link to="/settings" style={{ textDecoration: 'none', color: '#333', display: 'flex', alignItems: 'center' }}>
-                <img src="/assets/images/logo.png" alt="Settings" style={{ width: '20px', marginRight: '10px' }} />
+                <img src="/assets/images/settings-svgrepo-com.svg" alt="Settings" style={{ width: '20px', marginRight: '10px' }} />
                 Settings
               </Link>
             </li>

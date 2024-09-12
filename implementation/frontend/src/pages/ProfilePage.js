@@ -7,7 +7,7 @@ import FollowerFollowing from '../components/FollowerFollowing';
 import CreatePlaylist from '../components/CreatePlaylist';
 import ProfileSidebar from '../components/ProfileSideBar';
 import { user, dummySongs, userPlaylists, followers, following } from '../data';
-
+//u22554875 Capleton Chapfika
 class ProfilePage extends React.Component {
   render() {
     return (
@@ -33,9 +33,9 @@ class ProfilePage extends React.Component {
           {/* Main Profile Section */}
           <div style={{
             flex: 1,
-            marginLeft: '20px', // Adds space between sidebar and profile content
-            color: '#fff',  // Adjust text color for better readability
-            backgroundColor: 'rgba(0, 0, 0, 0.5)', // Dark overlay for readability
+            marginLeft: '20px', 
+            color: '#fff',  
+            backgroundColor: 'rgba(0, 0, 0, 0.5)', 
             borderRadius: '10px',
             padding: '20px',
           }}>

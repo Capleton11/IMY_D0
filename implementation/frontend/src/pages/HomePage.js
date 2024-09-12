@@ -3,8 +3,7 @@ import Sidebar from '../components/HomePageSideBar';
 import Header from '../components/Header';
 import SearchInput from '../components/SearchInput'; // Ensure you have this component
 import Feed from '../components/Feed';
-import { dummySongs, dummyPlaylists } from '../data'; // Ensure you have these
-
+import { user, dummySongs, dummyPlaylists } from '../data';
 class HomePage extends React.Component {
   constructor(props) {
     super(props);
@@ -32,7 +31,7 @@ class HomePage extends React.Component {
       }}>
         <Header />
         <div style={{ display: 'flex', flex: 1,position:'relative' }}>
-          <Sidebar />
+          <Sidebar user={user} />
           <div style={{ flex: 1, padding: '20px',marginLeft:"15%" }}>
             <SearchInput handleSearch={this.handleSearch} />
             <Feed songs={dummySongs} playlists={dummyPlaylists} />

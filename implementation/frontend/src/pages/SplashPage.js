@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+//u22554875 Capleton Chapfika
 class SplashPage extends React.Component {
   render() {
     return (
