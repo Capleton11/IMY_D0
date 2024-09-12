@@ -1,32 +1,32 @@
 export const dummySongs = [
     {
-      title: 'Shape of You',
-      artist: 'Ed Sheeran',
-      imageUrl: '/assets/images/jj.png',
+      title: 'All Girls Are The same',
+      artist: 'Juice World',
+      imageUrl: '/assets/images/juice cover.jpg',
       spotifyLink: 'https://open.spotify.com/track/7qiZfU4dYxE0t3w6m5Gg3e'
     },
     {
-      title: 'Blinding Lights',
-      artist: 'The Weeknd',
-      imageUrl: '/assets/images/jj.png',
+      title: 'Dont wanna die',
+      artist: 'Logic',
+      imageUrl: '/assets/images/logic.jpg',
       spotifyLink: 'https://open.spotify.com/track/0VjIjW4GlUZAMYd2vX8kW5'
     },
     {
-      title: 'Levitating',
-      artist: 'Dua Lipa',
-      imageUrl: '/assets/images/jj.png',
+      title: 'Not Like Us',
+      artist: 'Kendrick Lamar',
+      imageUrl: '/assets/images/kend.jpg',
       spotifyLink: 'https://open.spotify.com/track/3or2R3RGoFdECJ5kpBF4Qo'
     }
     , {
-      title: 'Shape of You',
-      artist: 'Ed Sheeran',
-      imageUrl: '/assets/images/jj.png',
+      title: 'Ghost',
+      artist: 'Justin Bieber',
+      imageUrl: '/assets/images/justin.jpg',
       spotifyLink: 'https://open.spotify.com/track/7qiZfU4dYxE0t3w6m5Gg3e'
     },
     {
       title: 'Big Dawgs',
       artist: 'HunamanKind',
-      imageUrl: '/assets/images/jj.png',
+      imageUrl: '/assets/images/jjuice cover.jpg',
       spotifyLink: 'https://open.spotify.com/track/0VjIjW4GlUZAMYd2vX8kW5'
     },
     {

@@ -21,7 +21,7 @@ class Sidebar extends React.Component {
         </div>
         <nav>
           <ul style={{ listStyle: 'none', padding: 0 }}>
-            <li><Link to="/home"><img src="/assets/images/jj.png" alt="Home" style={{ width: '20px', marginRight: '10px' }} /> Home</Link></li>
+            <li><Link to="/home"><img src="/assets/images/home-1-svgrepo-com.svg" alt="Home" style={{ width: '20px', marginRight: '10px' }} /> Home</Link></li>
             <li><Link to="/playlist"><img src="/assets/images/jj.png" alt="Playlists" style={{ width: '20px', marginRight: '10px' }} /> Playlists</Link></li>
             <li><Link to="/profile"><img src="/assets/images/jj.png" alt="Profile" style={{ width: '20px', marginRight: '10px' }} /> Profile</Link></li>
           </ul>

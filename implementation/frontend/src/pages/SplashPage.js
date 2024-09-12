@@ -20,8 +20,8 @@ class SplashPage extends React.Component {
         <div
           style={{
             position: 'relative',
-            height: 'calc(100vh - 60px)', // Adjust based on header height
-            background: `url(/assets/images/gradient.png) no-repeat center center`, // Updated path
+            height: 'calc(100vh - 60px)', 
+            background: `url(/assets/images/gradient.png) no-repeat center center`, 
             backgroundSize: 'cover',
             display: 'flex',
             flexDirection: 'column',
@@ -57,8 +57,8 @@ class SplashPage extends React.Component {
             alignItems: 'flex-end',
             padding: '20px'
           }}>
-            <img src="/assets/images/jj.png" alt="Overlapping 1" style={{ width: '270px', height: '200px', objectFit: 'cover', marginBottom: '-50px',marginRight: '150%', zIndex: '1' }} />
-            <img src="/assets/images/jj.png" alt="Overlapping 2" style={{ width: '270px', height: '200px', objectFit: 'cover', marginBottom: '100px',marginRight: '100%',zIndex: '0' }} />
+            <img src="/assets/images/pic2imy.jpg" alt="Overlapping 1" style={{ width: '270px', height: '200px', objectFit: 'cover', marginBottom: '-50px',marginRight: '150%', zIndex: '1' }} />
+            <img src="/assets/images/picimy.jpg" alt="Overlapping 2" style={{ width: '270px', height: '200px', objectFit: 'cover', marginBottom: '100px',marginRight: '100%',zIndex: '0' }} />
           </div>
         </div>
       </div>
