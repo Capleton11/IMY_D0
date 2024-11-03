@@ -1,0 +1,224 @@
+[
+    {
+        "_id": {
+            "$oid": "66fa511fd6bca7af705c5777"
+        },
+        "title": "1-800-273-8255",
+        "artist": "Logi",
+        "imageUrl": "/assets/images/logic.jpg",
+        "spotifyLink": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV?si=daa1e1eaafac48c5",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "updatedAt": {
+            "$date": "2024-11-02T22:05:25.626Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66fa511fd6bca7af705c5776"
+        },
+        "title": "All Girls Are The Same",
+        "artist": "Juice WRLD",
+        "imageUrl": "/assets/images/juice cover.jpg",
+        "spotifyLink": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1?si=75cc98c99d37400c",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66fa511fd6bca7af705c5779"
+        },
+        "title": "Ghost",
+        "artist": "Justin Bieber",
+        "imageUrl": "/assets/images/justin.jpg",
+        "spotifyLink": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G?si=65999c64a47e478c",
+        "addedBy": {
+            "$oid": "66fa50240f53a3a48282179c"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea61"
+        },
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "imageUrl": "/assets/images/sicko_mode.jpg",
+        "spotifyLink": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h?si=710e16603b304241",
+        "addedBy": {
+            "$oid": "66fa79b6f0a02288ef274fd8"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea62"
+        },
+        "title": "God's Plan",
+        "artist": "Drake",
+        "imageUrl": "/assets/images/gods_plan.jpg",
+        "spotifyLink": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn?si=020eb3ef06b947c3",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea63"
+        },
+        "title": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "imageUrl": "/assets/images/humble.jpg",
+        "spotifyLink": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS?si=92210482b40f499a",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea64"
+        },
+        "title": "Mo Bamba",
+        "artist": "Sheck Wes",
+        "imageUrl": "/assets/images/mo_bamba.jpg",
+        "spotifyLink": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr?si=df146e2a4932430a",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea65"
+        },
+        "title": "Suge",
+        "artist": "DaBaby",
+        "imageUrl": "/assets/images/suge.jpg",
+        "spotifyLink": "https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB?si=2a37b557a32e49cd",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea66"
+        },
+        "title": "Money Trees",
+        "artist": "Kendrick Lamar",
+        "imageUrl": "/assets/images/money_trees.jpg",
+        "spotifyLink": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4?si=c46eee60e5c048f7",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea67"
+        },
+        "title": "Bodak Yellow",
+        "artist": "Cardi B",
+        "imageUrl": "/assets/images/bodak_yellow.jpg",
+        "spotifyLink": "https://open.spotify.com/album/1wpgafbHuQfSUmCWvahFlq?si=Pj4nk1s3SaCs9jnGQzMlVg",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea68"
+        },
+        "title": "Rockstar",
+        "artist": "Post Malone feat. 21 Savage",
+        "imageUrl": "/assets/images/rockstar.jpg",
+        "spotifyLink": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt?si=1b30cf4b1fce4adc",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea69"
+        },
+        "title": "Empire State of Mind",
+        "artist": "Jay-Z feat. Alicia Keys",
+        "imageUrl": "/assets/images/empire_state_of_mind.jpg",
+        "spotifyLink": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO?si=802628497c8f4526",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6a"
+        },
+        "title": "In Da Club",
+        "artist": "50 Cent",
+        "imageUrl": "/assets/images/in_da_club.jpg",
+        "spotifyLink": "https://placeholder.spotify.com/in_da_club",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6b"
+        },
+        "title": "Old Town Road",
+        "artist": "Lil Nas X feat. Billy Ray Cyrus",
+        "imageUrl": "/assets/images/old_town_road.jpg",
+        "spotifyLink": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8?si=4cee8a4499294d2c",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6c"
+        },
+        "title": "Savage",
+        "artist": "Megan Thee Stallion",
+        "imageUrl": "/assets/images/savage.jpg",
+        "spotifyLink": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si?si=23d430c1c7d94e93",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6d"
+        },
+        "title": "Look At Me!",
+        "artist": "XXXTentacion",
+        "imageUrl": "/assets/images/look_at_me.jpg",
+        "spotifyLink": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18?si=ce86e3e1b5ba4d84",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6e"
+        },
+        "title": "Trap Queen",
+        "artist": "Fetty Wap",
+        "imageUrl": "/assets/images/trap_queen.jpg",
+        "spotifyLink": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ?si=b8c04cbb05bf4a55",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "672501d795471592d12eea6f"
+        },
+        "title": "The Box",
+        "artist": "Roddy Ricch",
+        "imageUrl": "/assets/images/the_box.jpg",
+        "spotifyLink": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I?si=29bb3654da62413f",
+        "addedBy": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "updatedAt": {
+            "$date": "2024-11-02T22:14:31.482Z"
+        }
+    }
+]

@@ -1,0 +1,15 @@
+BUILDING THE IMAGE:
+
+docker build -t delivery3 . 
+
+RUNNING IT:
+
+docker run --name express1 -p 3000:3000 delivery3
+
+RERUNS:
+
+
+docker stop express1 
+
+
+docker rm express1

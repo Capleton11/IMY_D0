@@ -1,0 +1,1 @@
+mongodb+srv://u22554875:Capleton%40112004@imy220.l9iop.mongodb.net/JiveTroveDB?retryWrites=true&w=majority

@@ -1,0 +1,417 @@
+[
+    {
+        "_id": {
+            "$oid": "66fa52311155418962e9c4fe"
+        },
+        "name": "Workout Hits",
+        "description": "Upbeat songs for your workout and relaxing",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            }
+        ],
+        "imageUrl": "/assets/images/jjuice cover.jpg",
+        "__v": 1,
+        "updatedAt": {
+            "$date": "2024-11-02T08:10:37.077Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66fa52311155418962e9c4fd"
+        },
+        "name": "Chill Vibes",
+        "description": "Relaxing tunes for chilling and vibes",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/juice cover.jpg",
+        "__v": 11,
+        "updatedAt": {
+            "$date": "2024-11-02T09:13:31.496Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "671e13c61c98f836938083eb"
+        },
+        "name": "Nice Vibes",
+        "description": "Take it easy and immerse in nice tunes",
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea6b"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "owner": {
+            "$oid": "66fa79b6f0a02288ef274fd8"
+        },
+        "imageUrl": "/assets/images/kend.jpg",
+        "createdAt": {
+            "$date": "2024-10-27T10:19:50.488Z"
+        },
+        "updatedAt": {
+            "$date": "2024-11-02T08:43:45.899Z"
+        },
+        "__v": 1
+    },
+    {
+        "_id": {
+            "$oid": "671e13f31c98f836938083ee"
+        },
+        "name": "Loft Playlist",
+        "description": " Chilled music for the soul and mind",
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea6b"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            },
+            {
+                "$oid": "672501d795471592d12eea66"
+            }
+        ],
+        "owner": {
+            "$oid": "66fa79b6f0a02288ef274fd8"
+        },
+        "imageUrl": "xfcvbn",
+        "createdAt": {
+            "$date": "2024-10-27T10:20:35.517Z"
+        },
+        "updatedAt": {
+            "$date": "2024-11-02T08:53:13.162Z"
+        },
+        "__v": 5
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818194"
+        },
+        "name": "Chill Vibes",
+        "description": "Relaxing tracks to unwind",
+        "owner": {
+            "$oid": "66fa79b6f0a02288ef274fd8"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/kend.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818195"
+        },
+        "name": "Top 40 Hits",
+        "description": "The biggest hits from this year",
+        "owner": {
+            "$oid": "66fa79b6f0a02288ef274fd8"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/kend.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818196"
+        },
+        "name": "Romantic Ballads",
+        "description": "Heartfelt songs for a cozy evening",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/kend.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818197"
+        },
+        "name": "Classic Rock Anthems",
+        "description": "Legendary rock songs through the ages",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/kend.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818198"
+        },
+        "name": "Feel Good Songs",
+        "description": "Happy tunes to lift your spirits",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/kend.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d818199"
+        },
+        "name": "Dance Party Playlist",
+        "description": "Get moving with these dance tracks",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/dance_party.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "672513e0d9dba2380d81819a"
+        },
+        "name": "Indie Favorites",
+        "description": "Discover hidden gems from indie artists",
+        "owner": {
+            "$oid": "66fa50240f53a3a48282179c"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea63"
+            }
+        ],
+        "imageUrl": "/assets/images/jjuice cover.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "6726ae6eb79046a018b9ce96"
+        },
+        "name": "Chilling Tunes",
+        "description": "Relaxing tunes for the",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/juice cover.jpg",
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2024-11-02T22:57:50.691Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6726ae6eb79046a018b9ce97"
+        },
+        "name": "Cookout Playlist",
+        "description": "High-energy songs to keep you motivated during workouts",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/workout.jpg",
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2024-11-02T22:57:50.691Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6726ae6eb79046a018b9ce98"
+        },
+        "name": "Road Trip Jams",
+        "description": "Perfect songs for your next road trip",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/roadtrip.jpg",
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2024-11-02T22:57:50.691Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6726ae6eb79046a018b9ce99"
+        },
+        "name": "Party Anthems",
+        "description": "Get the party started with these hits",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/party.jpg",
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2024-11-02T22:57:50.691Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6726ae6eb79046a018b9ce9a"
+        },
+        "name": "Relaxing Acoustic",
+        "description": "Soft acoustic tunes for unwinding",
+        "owner": {
+            "$oid": "66fa50230f53a3a48282179b"
+        },
+        "songs": [
+            {
+                "$oid": "66fa511fd6bca7af705c5779"
+            },
+            {
+                "$oid": "672501d795471592d12eea62"
+            },
+            {
+                "$oid": "672501d795471592d12eea61"
+            },
+            {
+                "$oid": "672501d795471592d12eea67"
+            }
+        ],
+        "imageUrl": "/assets/images/acoustic.jpg",
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2024-11-02T22:57:50.691Z"
+        }
+    }
+]
